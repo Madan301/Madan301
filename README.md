@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Madan301
-- 👀 I’m interested in Cybersecurity 
+- 👀 Cybersecurity enthusiast
 - 🌱 I’m currently learning Advance offensive security concepts
+- 🛠️ Building tools for both securing and simulating attacks
 - 🔴💊 or 🔵💊 you decide, but i would want both. (IFYKUK)
 - 📫 Reach me at www.linkedin.com/in/g-madan-a434231bb
 
