@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Madan301
-- 👀 Cybersecurity enthusiast
-- 🌱 I’m currently learning Advance offensive security concepts
-- 🛠️ Building tools for both securing and simulating attacks
-- 🔴💊 or 🔵💊 you decide, but i would want both. (IFYKUK)
+- 👀 Interested in Cybersecurity, BlockChain and Quantum computing
+- 🌱 I’m currently learning BlockChain concepts and Quantum Computing Implementations
+- 🛠️ Building new and amazing stuffs
 - 📫 Reach me at www.linkedin.com/in/g-madan-a434231bb
 
 <!---
