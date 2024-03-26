@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Madan301
-- 👀 Interested in Cybersecurity, BlockChain and Quantum computing
-- 🌱 I’m currently learning BlockChain concepts and Quantum Computing Implementations
-- 🛠️ Building new and amazing stuffs
+- 👀 Interested in Application security and cryptography
+- 🛠️ Building new and amazing stuff
 - 📫 Reach me at www.linkedin.com/in/g-madan-a434231bb
 
 <!---
